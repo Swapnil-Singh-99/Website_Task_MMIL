@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --bold-26: Roboto;
+  
+    /* font sizes */
+    --bold-26-size: 26px;
+    --regular-14-size: 14px;
+    --medium-12-size: 12px;
+    --medium-36-size: 36px;
+    --regular-16-size: 16px;
+    --medium-50-size: 50px;
+    --regular-18-size: 18px;
+  
+    /* Colors */
+    --colour-secondary-white-100-general: #fff;
+    --colour-logo-primary: #37447e;
+    --colour-main-blue-700: #222f65;
+    --colour-main-blue-800: #111b47;
+    --colour-main-blue-300: #929ecc;
+    --colour-main-grey-400: #939ea4;
+    --colour-main-blue-900: #091133;
+    --colour-main-blue-400: #6f7cb2;
+    --colour-main-blue-500: #505f98;
+    --colour-main-grey-600: #5d6970;
+  
+    /* border radiuses */
+    --br-11xs: 2px;
+  }
+  
